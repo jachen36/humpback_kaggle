@@ -1,8 +1,5 @@
-
-./data
 ./tmp
 tmp/
-data/
 .ipynb_checkpoints/
 
 
