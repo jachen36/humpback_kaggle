@@ -1,4 +1,7 @@
-./tmp
+data/train/
+data/test/
+data/models/
+data/train_playground/
 tmp/
 .ipynb_checkpoints/
 
