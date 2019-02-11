@@ -2,6 +2,7 @@ data/train/
 data/test/
 data/models/
 data/train_playground/
+data/test_crop_224/
 tmp/
 .ipynb_checkpoints/
 
