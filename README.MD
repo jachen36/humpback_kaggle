@@ -1,9 +1,6 @@
 # Humpback Whale Identification Competition Experiment
 
 
-
-
-
 ## Navigating through repository
 
 

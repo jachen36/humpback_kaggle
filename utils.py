@@ -24,7 +24,7 @@ def mapr(input: torch.Tensor, targs: torch.LongTensor, mapn: int):
 
 
 
-def get_data(size, bs, csv, num_workers=0, padding_mode='reflection'):
+def get_data(size, bs, csv, folder='train', num_workers=0, padding_mode='reflection'):
     """
         Consistent way to get data for experimenting
     """
